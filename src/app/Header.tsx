@@ -117,7 +117,7 @@ const Header = () => {
                     <Button variant="link" className="pl-0">Blogs</Button>
                   </Link>
                   <Link href="/learning-hub">
-                    <Button variant="link" className="pl-0">Learning hub</Button>
+                    <Button variant="link" className="pl-0">Learning Hub</Button>
                   </Link>
                   <Link href="/museo">
                     <Button variant="link" className="pl-0">Museo</Button>
