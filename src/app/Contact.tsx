@@ -20,7 +20,7 @@ const Contact = () => {
     <section className="container grid md:grid md:grid-cols-2 gap-10" id="contact">
       <div>
         <h2 className="text-xl font-bold mb-5">Contact us</h2>
-        <p className="mb-3">If you have any questions feel free to reach out to us. Fill the form to send your query or get in touch with us through the following platforms.</p>
+        <p className="mb-3">If you have any questions, feel free to reach out to us. Fill out the form to send your query, or get in touch with us through the following platforms.</p>
         <Dock magnification={60} distance={100}>
           <DockIcon>
             <a href="" target="_blank">

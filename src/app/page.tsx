@@ -8,13 +8,13 @@ import FAQs from "./FAQs";
 import Contact from "./Contact"
 export default function Home() {
   return (
-    <main className="mt-[64px]">
+    <>
       <Hero />
       <About />
       <MissionVision />
       <Department />
       <FAQs />
       <Contact />
-    </main>
+    </>
   );
 }

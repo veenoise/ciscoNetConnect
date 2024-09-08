@@ -2,11 +2,10 @@
 
 const page = () => {
   return (
-    <main className="mt-[64px]">
-      <section>
-        hello
-      </section>
-    </main>
+    <section className="container">
+      <h1 className="text-2xl font-bold mb-5">News</h1>
+      <p>Stay updated with the latest news from the Cisco NetConnect organization and other tech-related updates here!</p>
+    </section>
   )
 }
 
